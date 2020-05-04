@@ -1,0 +1,28 @@
+body {
+    width: 800px;
+    margin: 0em auto;
+}
+
+
+
+
+h3 {
+    font-size: 30px;
+    margin: 0px;
+    color: blue;
+   }
+	
+h1 {
+    font-size: 50px;
+    margin: 5px;
+    color: black;
+ 
+}
+
+
+footer{
+	display:block;
+	color: gray;
+}
+
+h1.outset {border-style:outset};
